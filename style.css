@@ -1,3 +1,7 @@
+body {
+  margin: 10px; 
+  padding: 35px;
+}
 html {
   height: 100%;
   width: 100%;
@@ -8,29 +12,25 @@ h1 {
 }
 h5 {
   text-align:center;
-  background-color:#2929ff;
+  background-color:#7a7aff;
 }
 h6 {
   
 }
 p1 {
   font-family: 'Times New Roman';
-}html {
+  font-size: 16px;
+}
+html {
   height: 100%;
   width: 100%;
 }
 h1 {
   text-align:center;
 }
-h5 {
-  text-align:center;
-  background-color:#2929ff;
-}
+
 h6 {
   
-}
-p1 {
-  font-family: 'Times New Roman';
 }
 .p {
   color: white;
